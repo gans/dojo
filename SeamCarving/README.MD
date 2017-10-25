@@ -1,0 +1,4 @@
+
+
+http://www.cs.princeton.edu/courses/archive/spring17/cos226/assignments/seamCarving.html
+https://github.com/salamap/SeamCarving
